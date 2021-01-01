@@ -1,0 +1,51 @@
+body {
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #333;
+}
+h3 {
+  margin: 50px 0;
+}
+#main {
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #eee;
+}
+
+#image {
+  display: block;
+  margin: 0 auto;
+  height: auto;
+  max-width: 100%;
+}
+#img-div {
+  background-color: white;
+  padding: 10px;
+  margin: 0;
+}
+#img-caption {
+  margin: 15px 0 5px 0;
+}
+li {
+  margin: 16px 0;
+}
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+blockquote {
+  font-style: italic;
+  max-width: 545px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+}
+a {
+  color: #477ca7;
+}
+a:visited {
+  color: #74638f;
+}
